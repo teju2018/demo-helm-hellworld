@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hellworld:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-04-04T19:48:37.318241236+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 2c7e08e5bc86413cf4a94c820e0690658e69ecdd0cdf09314c7b17f96d1f406e
+    name: hellworld
+    type: application
+    urls:
+    - https://teju2018.github.io/demo-helm-hellworld/hellworld-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-04-04T19:48:37.317374913+05:30"
